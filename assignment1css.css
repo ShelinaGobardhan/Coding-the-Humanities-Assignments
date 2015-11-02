@@ -4,6 +4,8 @@ body {
      -moz-background-size: cover;
        -o-background-size: cover;
           background-size: cover;
+  font-family: "Palatino Linotype"
+  
 }
 h1 { 
 color: #E6E6FA;
@@ -18,7 +20,4 @@ text-align: center;
 }
  .buttons, ul {
      text-align: center;
-}
-body {
-    font-family: "Palatino Linotype"
 }
