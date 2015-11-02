@@ -1,1 +1,2 @@
-# CtH-Assignment-1
+Coding the Humanities Assignment 1
+by Shelina Gobardhan
