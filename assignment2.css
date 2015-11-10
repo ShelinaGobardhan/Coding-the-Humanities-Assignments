@@ -1,0 +1,69 @@
+body {
+    background-image: url('http://www.wallpaperinfinite.com/upload/wallpaper_images/abstract%20art%20background%20wallpaper80354.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: "Palatino Linotype"
+    color: #E6E6FA;
+    text-align: center;
+    margin-top: 100;
+    }
+h1 { 
+    color: #E6E6FA;
+    text-align: center;
+    }
+.h1, p {
+    color: #E6E6FA;
+    text-align: center;
+    }
+.images img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+    }
+.buttons, container {
+    text-align: center;
+    }
+.button1 {
+    -webkit-transform: skew(-30deg);
+    -o-transform: skew(-30deg);
+    -moz-transform: skew(-30deg);
+    -ms-transform: skew(-30deg);
+    transform: skew(-30deg);
+    }
+.button1:hover {
+    background: #FF1493;
+    }
+.button2 {
+    -webkit-transform: skew(-30deg);
+    -o-transform: skew(-30deg);
+    -moz-transform: skew(-30deg);
+    -ms-transform: skew(-30deg);
+    transform: skew(-30deg);
+    }
+.button2:hover {
+    background: #FF1493;
+    }
+.button3 {
+    -webkit-transform: skew(-30deg);
+    -o-transform: skew(-30deg);
+    -moz-transform: skew(-30deg);
+    -ms-transform: skew(-30deg);
+    transform: skew(-30deg);
+    }
+.button3:hover {
+    background: #FF1493;
+    }
+.button4 {
+    -webkit-transform: skew(-30deg);
+    -o-transform: skew(-30deg);
+    -moz-transform: skew(-30deg);
+    -ms-transform: skew(-30deg);
+    transform: skew(-30deg);
+    }
+.button4:hover {
+    background: #FF1493;
+    }
