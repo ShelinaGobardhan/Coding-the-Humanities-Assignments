@@ -1,0 +1,32 @@
+<html>
+    <head>
+    <link href="http://uskk3144f5d6.shelinagobardhan.koding.io//assignment1.html" rel="stylesheet">
+    <link rel="stylesheet" href="assignment1css.css">
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="assignment1js.js"></script>
+    </head>
+	<body>
+	<h1>The Awesome Rotation Game</h1>
+	<p>Welcome to The Awesome Rotation Game! 
+	The goal of this game is finding out the correct position of the piece of art that is shown to you. 
+	Rotate the image until you think that you have found the correct position and then click the "Show me the art!" button to see if you got the right answer. 
+	After that you can move on to the next piece of art. Enjoy playing the game!</p>
+        <div class="buttons">
+        <div class="container">
+            <ul>
+                <button class="button1" onclick="TurnImage()">Rotate this Awesome Image</button> 
+                <button class="button2" onclick="Guess()">Show me the art!</button>
+                <button class="button3" onclick="next()">Go to the next Awesome Image</button>
+                <button class="button4" onclick="prev()">Go back to the previous Awesome Image</button>
+            </ul>
+        </div>
+        </div>
+        <div class="images">
+        <div class="container">
+            <ul>
+                <img id="image1" width="200px" src="http://www.abstractartistgallery.org/wp-content/uploads/2014/03/abstract-art-painting-ashwood-summerpeonycrop.jpg">
+            </ul>
+        </div>
+        </div>
+      	</body>    
+</html>
