@@ -1,2 +1,2 @@
-Coding the Humanities Assignment 1
+Coding the Humanities Assignments
 by Shelina Gobardhan
